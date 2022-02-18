@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">REPRODUCIR VIDEO</string>
+    <string name="iniciar">INICIAR</string>
+    <string name="parar">DETENER</string>
+
+</resources>
